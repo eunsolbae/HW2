@@ -1,4 +1,4 @@
-name: Build and Push Docker Image
+name: CI/CD Pipeline for Personal Color AI Project
 
 on:
   push:
